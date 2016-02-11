@@ -1,0 +1,3 @@
+User
+Preferences.sublime-settings
+Plain text.sublime-settings 
